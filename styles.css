@@ -46,3 +46,8 @@ li.logo {
   font-size: 24px;
   font-weight: bold;
 }
+
+img.small {
+  width: 200px;
+}
+
